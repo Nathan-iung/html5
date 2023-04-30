@@ -25,4 +25,5 @@ height: 100%;
 figure.foto-legenda figcaption {
     position: absolute;
     top:0px;
+    background-color: black;
 }
